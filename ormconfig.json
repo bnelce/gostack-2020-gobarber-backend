@@ -5,8 +5,6 @@
   "username": "root",
   "password": "",
   "database": "gobarber-2020",
-  "synchronize": true,
-  "logging": false,
   "entities": [
         "./src/models/*.ts"
     ],
